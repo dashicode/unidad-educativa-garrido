@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --bs-tertiary: #797E88;
-    --institucion-primary: #1E183A;
-    --institucion-secondary: #E71D2C;
-    --institucion-tertiary: #797E88;
+    --bs-tertiary: #f8fafc;
+    --institucion-primary: #2563eb;
+    --institucion-secondary: #1e3a8a;
+    --institucion-tertiary: #f8fafc;
 }
 
 .back-to-top {
@@ -625,7 +625,7 @@
 /* TODO: PONER LOS COLORES PRINCIPALES EN HEX */
 .footer {
     color: var(--bs-tertiary);
-    background: linear-gradient(#1E183A, #1E183A), url(../img/bg-footer.jpg) center center no-repeat;
+    background: linear-gradient(#2563eb, #2563eb), url(../img/bg-footer.jpg) center center no-repeat;
     background-size: cover;
 }
 
